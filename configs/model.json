@@ -1,0 +1,8 @@
+{ 
+    "lstm_units": 256, 
+    "dense_units": 64,
+    "projection_dim": 3, 
+    "kernel_initializer": "glorot_uniform", 
+    "dense_activation" : "relu",
+    "final_activation": "sigmoid"
+}
